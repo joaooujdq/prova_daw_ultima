@@ -1,0 +1,43 @@
+#bodyLogin ul #divH1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-items: center;
+
+}
+
+#bodyLogin ul #divInput{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-items: center;
+
+}
+
+#bodyLogin ul #divInput input{
+    margin-top: 10px;
+    height: 3vh;
+
+}
+#bodyLogin ul #divH1 h1{
+    
+    height: 4vh;
+
+}
+
+#bodyLogin ul  {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-items: center;
+
+}
+
+#bodyLogin  {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-items: center;
+    padding-top: 200px;
+
+}

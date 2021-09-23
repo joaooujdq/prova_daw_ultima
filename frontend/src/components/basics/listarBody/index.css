@@ -1,0 +1,23 @@
+#bodyListar{
+    padding-top: 70px;
+    padding-left: 800px;
+    width: 100vw;
+    height: 100vh;
+}
+
+#bodyListar ul {
+display: flex;
+
+
+}
+#bodyListar  h1{
+    padding-bottom: 100px;
+    }
+
+#bodyListar ul li{
+    display: flex;
+    flex-direction: row;
+    
+   
+    padding-left: 20px;
+}
